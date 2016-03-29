@@ -5,7 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Windows;
 
-namespace BetaViewer
+namespace Gramma.BetaImport.Viewer
 {
 	/// <summary>
 	/// Interaction logic for App.xaml
