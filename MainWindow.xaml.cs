@@ -14,7 +14,7 @@ using System.Windows.Shapes;
 using System.IO;
 using Gramma.BetaImport;
 
-namespace BetaViewer
+namespace Gramma.BetaImport.Viewer
 {
 	/// <summary>
 	/// Interaction logic for MainWindow.xaml

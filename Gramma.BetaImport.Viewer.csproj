@@ -8,8 +8,8 @@
     <ProjectGuid>{A8A79F09-F794-4004-A0B1-DE93393E5D7D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BetaViewer</RootNamespace>
-    <AssemblyName>BetaViewer</AssemblyName>
+    <RootNamespace>Gramma.BetaImport.Viewer</RootNamespace>
+    <AssemblyName>Gramma.BetaImport.Viewer</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
@@ -106,7 +106,7 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Components\Gramma.BetaImport\Gramma.BetaImport.csproj">
+    <ProjectReference Include="..\Gramma.BetaImport\Gramma.BetaImport.csproj">
       <Project>{739C342E-5FEC-45B5-B5B6-A73FAAED5F74}</Project>
       <Name>Gramma.BetaImport</Name>
     </ProjectReference>
