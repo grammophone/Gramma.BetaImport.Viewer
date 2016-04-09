@@ -12,9 +12,9 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.IO;
-using Gramma.BetaImport;
+using Grammophone.BetaImport;
 
-namespace Gramma.BetaImport.Viewer
+namespace Grammophone.BetaImport.Viewer
 {
 	/// <summary>
 	/// Interaction logic for MainWindow.xaml

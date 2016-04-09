@@ -1,4 +1,4 @@
-﻿<Window x:Class="Gramma.BetaImport.Viewer.MainWindow"
+﻿<Window x:Class="Grammophone.BetaImport.Viewer.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Beta Viewer" Height="350" Width="525">
